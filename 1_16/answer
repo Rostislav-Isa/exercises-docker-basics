@@ -1,0 +1,9 @@
+# Cloud deployment
+
+## Link to the Running App
+
+[App](https://cim-visualizer.onrender.com)
+
+## Discussion of What I Did
+
+I deployed a new web service with (free-tier) [Render](https://render.com/) by selecting my [Docker Hub image](https://hub.docker.com/repository/docker/dockerunofficial/cim_visualizer) as its source. The application is frontend-only.
